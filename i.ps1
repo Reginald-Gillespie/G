@@ -19,4 +19,5 @@ Loop
 "@ > $gloc
 
 # And finally we start it
+Start-Sleep 1
 Start-Process $gloc

