@@ -9,7 +9,7 @@ The intent is to create a startup wrapper, placing it in the shell:startup folde
 
 ---
 
-i.ps1: The install script run by the digispark
+`i.ps1`: The install script run by the digispark
 
-run.vbs: The vbs script copied to the autostartup folder.
+`run.vbs`: The vbs script copied to the autostartup folder.
 
